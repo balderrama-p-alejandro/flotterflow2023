@@ -2,7 +2,7 @@
 aqui se pondras las practicas los licks de flotterflow
 
 # actividad 2 flotter flow
-link --> wwwwww
+link --> https://app.flutterflow.io/share/proye-ios-8u6upd
 
 # actividad 3 flotter flow
 link --> wwwwww****
